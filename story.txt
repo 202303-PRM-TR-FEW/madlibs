@@ -1,3 +1,1 @@
-Louis[n] went[v] to the store[n], and it was fun[a]. He taught[v] the class[n].
-The abbreviation[n] "n" means[v] noun. We use[v] the letter[n] "v" for verbs.
-And for "a", you can[v] make a good[a] guess.
+Once upon a time, a little girl[n] named Lily[n] went[n] to the park[n]. She saw a big[a], brown[a] dog[n] and started to run[v]. The dog[n] chased[v] her, but when he caught up, he licked[v] her face[n]. Lily realized[v] the dog[n] just wanted to play, and they became friends[n].
